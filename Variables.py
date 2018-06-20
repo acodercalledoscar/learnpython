@@ -11,8 +11,8 @@
 #
 # # print(greeting + age)
 
-a = 12
-b = 3
+# a = 12
+# b = 3
 # print(a + b)
 # print(a - b)
 # print(a * b)
@@ -20,8 +20,8 @@ b = 3
 # print(a // b)
 # print(a % b)
 #
-for i in range(0, a // b):
-    print(i)
+# for i in range(0, a // b):
+#     print(i)
 
 # print(a + b / 3 - 4 * 12)
 # print(((((a + b) // 3) - 4) * 12))
@@ -42,7 +42,7 @@ for i in range(0, a // b):
 # print(parrot[6:])
 # print(parrot[-4:-2])
 # print(parrot[0:6:2])
-# print(parrot[0:6:3])
+# print(parrot[::3])
 #
 # number = "9,234,654,134,745"
 # print(number[1::4])
